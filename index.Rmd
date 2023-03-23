@@ -3,7 +3,7 @@ title: "Data Scientist with R"
 author: "Ravikant Yadav"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+output: bookdown::gitbook
 ---
 
-# Down the rabbit-hole
 

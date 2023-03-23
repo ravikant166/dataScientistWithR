@@ -6,7 +6,7 @@ site: bookdown::bookdown_site
 output: bookdown::gitbook
 ---
 
-# Preface
+# Preface {-}
 
 This is work in progress
 

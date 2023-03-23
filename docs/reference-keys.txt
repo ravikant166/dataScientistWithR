@@ -1,4 +1,3 @@
-preface
 introduction-to-r
 intro-to-basics
 arithmetic-with-r

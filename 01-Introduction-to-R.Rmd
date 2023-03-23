@@ -809,6 +809,7 @@ star_wars_matrix <- matrix(box_office,
 # The worldwide box office figures
 worldwide_vector <- rowSums(star_wars_matrix)
 
+
 # Bind the new variable worldwide_vector as a column to star_wars_matrix
 all_wars_matrix <- cbind(star_wars_matrix,worldwide_vector)
 

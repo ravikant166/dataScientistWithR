@@ -30,4 +30,3 @@ analyze-matrices-you-shall
 naming-a-matrix
 calculating-the-worldwide-box-office
 adding-a-column-for-the-worldwide-box-office
-a-caucus-race-and-a-long-tale

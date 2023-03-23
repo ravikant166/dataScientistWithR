@@ -30,3 +30,12 @@ analyze-matrices-you-shall
 naming-a-matrix
 calculating-the-worldwide-box-office
 adding-a-column-for-the-worldwide-box-office
+adding-a-row
+the-total-box-office-revenue-for-the-entire-saga
+selection-of-matrix-elements
+a-little-arithmetic-with-matrices
+a-little-arithmetic-with-matrices-2
+factors
+whats-a-factor-and-why-would-you-use-it
+whats-a-factor-and-why-would-you-use-it-2
+whats-a-factor-and-why-would-you-use-it-3
